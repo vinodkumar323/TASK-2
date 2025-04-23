@@ -1,0 +1,13 @@
+-> VISUALS CREATED
+- A line chart to show monthly sales trends and identify seasonal spikes.
+- Bar charts to display sales and profit by sub-category and region.
+- A scatter plot to compare sales vs profit and highlight loss-making areas.
+- A map visualization to explore geographic profit distribution.
+- A chart showing profit based on shipping modes.
+
+-> KEY INSIGHTS
+- November and December show the highest sales — indicating seasonal buying behavior.
+- The "Tables" sub-category, despite high sales, results in negative profit and needs cost review.
+- West region leads in both sales and profit, while some regions show poor performance.
+- Same-Day shipping tends to reduce profitability, suggesting the need to evaluate shipping strategies.
+- High sales don’t always mean high profit — some products drive revenue but result in loss.
